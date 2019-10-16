@@ -8,7 +8,7 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
   },
   
 {
-    "title": "write your command",
-    "description": "Describe it"
+    "title": "git config --global user.name "[name]"",
+    "description": "Sets the name you want attached to your commit transactions"
   },
 ]
